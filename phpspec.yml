@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Ensayo
+        psr4_prefix: Ensayo
+        src_path: app
